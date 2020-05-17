@@ -138,6 +138,7 @@ Once the file named **iris.data** has been downloaded you can verify it by openi
 ![image](https://user-images.githubusercontent.com/60121637/82160958-d1281900-9890-11ea-9545-c4badce0379a.png)
 
 The next step is to load the iris dataset into scikit-learn
+For more information <https://scikit-learn.org/stable/datasets/>
 ![image](https://user-images.githubusercontent.com/60121637/82161204-a9d24b80-9892-11ea-8c9b-4bbe2628468c.png)
 
 * Each row is an **observation** (also known as: sample, example, instance, record)
