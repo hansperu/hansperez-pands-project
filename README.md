@@ -70,7 +70,34 @@ The following images have been compiled from the book Python Machine Learning by
 
 ![image](https://user-images.githubusercontent.com/60121637/82153789-8c38be00-9861-11ea-8fbf-d98dc90f1ce3.png)
 
+## III. Programming and scripting process.
 
+### Technology
+* Anaconda
+* Python 3.8.2
+* Visual Studio Code: March 2020 (version 1.44)
+* Git 2.26.1
+* Gihub
+* GDB Online is an online compilation and debugging tool for Anaconda, Python,compile, run and debug online from anywhere in the world.
+* Operating system: Ubuntu 19.10 - Windows 10 Pro - 64 bit
 
+### Hardware requirements
+- Number of cores: 4
+- Release date: Intel (R) Core (TM) i7-4790 CPU
+- RAM 8.00 GB
+- Clock frequency: 3.6 GHz
+- CPU Benchmark Score: 1833
 
+### Objective of the project.
+
+The main objective of this project to work with the Fisher dataset using machine learning and for this we will use Python.
+The main Python package for machine learning is scikit-learn. It is an open source collection of machine learning algorithms that include tools to access and preprocess data, evaluate the output of an algorithm, and visualize the results.
+
+Previously we will install Anaconda which is the most complete Suite for Data Science with Python.
+
+https://www.anaconda.com/products/individual
+
+You can install scikit-learn with the common procedure through CheeseShop:
+
+`$ pip install scikit-learn`
 
