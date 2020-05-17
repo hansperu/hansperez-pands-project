@@ -140,6 +140,11 @@ Once the file named **iris.data** has been downloaded you can verify it by openi
 The next step is to load the iris dataset into scikit-learn
 ![image](https://user-images.githubusercontent.com/60121637/82161204-a9d24b80-9892-11ea-8c9b-4bbe2628468c.png)
 
-Each row is an **observation** (also known as: sample, example, instance, record)
-Each column is a **characteristic** (also known as: predictor, attribute, independent variable, input, regressor, covariate)
+* Each row is an **observation** (also known as: sample, example, instance, record)
+* Each column is a **characteristic** (also known as: predictor, attribute, independent variable, input, regressor, covariate)
 
+![image](https://user-images.githubusercontent.com/60121637/82162310-75af5880-989b-11ea-8ee2-8e0b18218659.png)
+
+* Each of the values we are predicting is the **response** (also known as: target, result, label, dependent variable).
+* Therefore the **classification** is supervised learning in which the answer is categorical.
+* **Regression** is supervised learning in which the response is orderly and continuous.
