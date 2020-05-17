@@ -47,7 +47,7 @@ Author: Bonzanini, Marco
 #### Python Data Science Essentials - Second Edition
 Author: Boschetti, Alberto, Massaron, Luca
 
-![book2](https://user-images.githubusercontent.com/60121637/82153606-58a96400-9860-11ea-9dba-31898bbd2c42.png)
+![book3](https://user-images.githubusercontent.com/60121637/82153641-a756fe00-9860-11ea-8245-e15e478f1450.png)
 
 #### Some journal articles:
 
