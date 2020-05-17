@@ -123,4 +123,6 @@ Once inside Anaconda we must enter Jupyter
 
 ![image](https://user-images.githubusercontent.com/60121637/82154677-58f92d80-9867-11ea-9f96-1e27f486cf9a.png)
 
+## IV. Process of downloading the dataset and adding it to the repository.
+
 
