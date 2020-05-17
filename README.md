@@ -101,3 +101,13 @@ You can install scikit-learn with the common procedure through CheeseShop:
 
 `$ pip install scikit-learn`
 
+![image](https://user-images.githubusercontent.com/60121637/82154218-3f0a1b80-9864-11ea-9278-c73e30a151b3.png)
+
+The data that we're using is called the Fisher's Iris dataset, also referred to as Iris flower dataset. It was introduced in the 1930s by Ronald Fisher and it's today one of the classic datasets: given its small size, it's often used in the literature for toy examples. The dataset contains 50 samples from each of the three species of Iris, and for each sample four features are reported: the length and width of petals and sepals.
+
+The dataset is commonly used as a showcase example for classification as the data comes with the correct labels for each sample, while its application for clustering is less common, mainly because there are just two well-visible clusters with a rather obvious separation. Given its small size and simple structure, it makes the case for a gentle introduction to data analysis with scikit-learn.
+
+To visualize the data we will install matplotlib library with
+
+`$ pip install matplotlib`
+
