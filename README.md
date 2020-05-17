@@ -52,5 +52,4 @@ Keyword search: iris datset and python script.  You will retrieve circa 68 resu
 
 A detailed research has also been done in Google Academico and has given us a result of 1350 articles and texts that refer to "Fisher’s Iris dataset + Python"
 
-
-https://github.com/hansperu/hansperez-pands-project/issues/1#issue-619731540
+![image](https://user-images.githubusercontent.com/60121637/82152697-04e84c00-985b-11ea-9309-1e40e105c8b5.png)
