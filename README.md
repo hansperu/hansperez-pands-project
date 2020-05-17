@@ -137,3 +137,8 @@ Learn more about the iris dataset: UCI Machine Learning Repository
 Once the file named **iris.data** has been downloaded you can verify it by opening it with Visual Studio Code, image attached.
 
 ![image](https://user-images.githubusercontent.com/60121637/82160958-d1281900-9890-11ea-9545-c4badce0379a.png)
+
+The next step is to load the iris dataset into scikit-learn
+![image](https://user-images.githubusercontent.com/60121637/82161204-a9d24b80-9892-11ea-8c9b-4bbe2628468c.png)
+
+
