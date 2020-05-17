@@ -1,7 +1,6 @@
 # Project Programming and Scripting
 ## The Irsis Flower data set
 **Student:** Hans Pérez Rubín de Celis
-
 **Student ID number:** G00387884
 
 ## 1.Projet Plan.
@@ -141,4 +140,6 @@ Once the file named **iris.data** has been downloaded you can verify it by openi
 The next step is to load the iris dataset into scikit-learn
 ![image](https://user-images.githubusercontent.com/60121637/82161204-a9d24b80-9892-11ea-8c9b-4bbe2628468c.png)
 
+Each row is an **observation** (also known as: sample, example, instance, record)
+Each column is a **characteristic** (also known as: predictor, attribute, independent variable, input, regressor, covariate)
 
