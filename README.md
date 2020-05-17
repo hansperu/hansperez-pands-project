@@ -47,6 +47,8 @@ Author: Bonzanini, Marco
 #### Python Data Science Essentials - Second Edition
 Author: Boschetti, Alberto, Massaron, Luca
 
+![book2](https://user-images.githubusercontent.com/60121637/82153606-58a96400-9860-11ea-9dba-31898bbd2c42.png)
+
 #### Some journal articles:
 
 Advanced search in search+find: iris dataset AND python programming language.  Limit to academic journals. Retrieves 4.  First 3 reference iris data set and give examples of code? Use CTRL F within the article and search for iris dataset.
