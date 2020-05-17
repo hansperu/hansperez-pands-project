@@ -116,3 +116,8 @@ To visualize the data we will install matplotlib library with
 The next phase is to open through the anaconda terminal using the following code
 
 `$ anaconda-navigator`
+
+![image](https://user-images.githubusercontent.com/60121637/82154614-facc4a80-9866-11ea-872b-bd2446bb6c53.png)
+
+Once inside Anaconda we must enter Jupyter
+
