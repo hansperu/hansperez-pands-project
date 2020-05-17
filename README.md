@@ -64,7 +64,11 @@ The following table depicts an excerpt of the Iris dataset, which is a classic e
 
 ![image](https://user-images.githubusercontent.com/60121637/82152976-a6bc6880-985c-11ea-9b17-427217a9c22b.png)
 
-The following images have been compiled from the book Python Machine Learning by the author Raschka, Sebastian, Hirjalili, Vahid (Sencod Edition)
+The following images have been compiled from the book Python Machine Learning by the author Raschka, Sebastian, Hirjalili, Vahid (Sencod Edition).
+
+![image](https://user-images.githubusercontent.com/60121637/82153749-5e537980-9861-11ea-85b6-d2567e2435fd.png)
+
+
 
 
 
