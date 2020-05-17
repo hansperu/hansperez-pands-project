@@ -42,6 +42,8 @@ Author:Raschka, Sebastian, Mirjalili, Vahid
 #### Mastering Social Media Mining with Python
 Author: Bonzanini, Marco
 
+![book2](https://user-images.githubusercontent.com/60121637/82153488-a40f4280-985f-11ea-9b14-a7f0f4cf5d67.png)
+
 #### Python Data Science Essentials - Second Edition
 Author: Boschetti, Alberto, Massaron, Luca
 
