@@ -125,4 +125,7 @@ Once inside Anaconda we must enter Jupyter
 
 ## IV. Process of downloading the dataset and adding it to the repository.
 
-
+Firstly, the dataset must be imported, for this we will use the following code:
+![image](https://user-images.githubusercontent.com/60121637/82160730-4266cc80-988f-11ea-8564-bfba5ec1873f.png)
+Learn more about the iris dataset: UCI Machine Learning Repository
+<http://archive.ics.uci.edu/ml/datasets/Iris>
