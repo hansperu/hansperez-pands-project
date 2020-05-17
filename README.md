@@ -63,3 +63,8 @@ A detailed research has also been done in Google Academico and has given us a re
 The following table depicts an excerpt of the Iris dataset, which is a classic example in the field of machine learning. The Iris dataset contains the measurements of 150 Iris flowers from three different species—Setosa, Versicolor, and Virginica. Here, each flower sample represents one row in our dataset, and the flower measurements in centimeters are stored as columns, which we also call the features of the dataset:
 
 ![image](https://user-images.githubusercontent.com/60121637/82152976-a6bc6880-985c-11ea-9b17-427217a9c22b.png)
+
+The following images have been compiled from the book Python Machine Learning by the author Raschka, Sebastian, Hirjalili, Vahid (Sencod Edition)
+
+
+
