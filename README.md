@@ -36,6 +36,7 @@ The three etitles below (use the advanced search option in search + search. Ente
 
 #### Python Machine Learning - Second Edition
 Author:Raschka, Sebastian, Mirjalili, Vahid
+![book1](https://user-images.githubusercontent.com/60121637/82153453-66aab500-985f-11ea-881a-fd5e2bbd3c8e.png)
 
 #### Mastering Social Media Mining with Python
 Author: Bonzanini, Marco
