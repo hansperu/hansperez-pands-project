@@ -68,6 +68,8 @@ The following images have been compiled from the book Python Machine Learning by
 
 ![image](https://user-images.githubusercontent.com/60121637/82153749-5e537980-9861-11ea-85b6-d2567e2435fd.png)
 
+![image](https://user-images.githubusercontent.com/60121637/82153789-8c38be00-9861-11ea-8fbf-d98dc90f1ce3.png)
+
 
 
 
