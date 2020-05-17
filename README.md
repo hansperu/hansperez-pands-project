@@ -111,3 +111,8 @@ To visualize the data we will install matplotlib library with
 
 `$ pip install matplotlib`
 
+![image](https://user-images.githubusercontent.com/60121637/82154298-be97ea80-9864-11ea-8bfd-daff946fa271.png)
+
+The next phase is to open through the anaconda terminal using the following code
+
+`$ anaconda-navigator`
