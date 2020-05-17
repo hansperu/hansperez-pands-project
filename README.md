@@ -1,3 +1,6 @@
-# hansperez-pands-project
 # Project Programming and Scripting
-## THE IRIS FLOWER DATA SET
+## The Irsis Flower data set
+### 1.Projet Plan
+
+Introduction To Iris Data Set
+
