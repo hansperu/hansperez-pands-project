@@ -1,16 +1,20 @@
 # Project Programming and Scripting
 ## The Irsis Flower data set
-### 1.Projet Plan.
+**Student:** Hans Pérez Rubín de Celis
+
+**Student ID number:** G00387884
+
+## 1.Projet Plan.
 This project concerns the well-known Fisher’s Iris data set. You must research the data set and write documentation and code in Python to investigate it. 
-### 2.- The Problem to solve.
+## 2.- The Problem to solve.
 You are expected to be able to break this project into several smaller tasks that are easier to solve, and to plug these together after they have been completed. 
-### 3.- Methodology to follow
+## 3.- Methodology to follow
 This project has been developed fulfilling the following objectives:
-#### 3.1. Research the data set online and write a summary about it in your README.
+### 3.1. Research the data set online and write a summary about it in your README.
 
-#### 3.2. Download the data set and add it to your repository.
+### 3.2. Download the data set and add it to your repository.
 
-#### 3.3. Write a program called analysis.py that:
+### 3.3. Write a program called analysis.py that:
    
 * outputs a summary of each variable to a single text file,
 
@@ -129,3 +133,7 @@ Firstly, the dataset must be imported, for this we will use the following code:
 ![image](https://user-images.githubusercontent.com/60121637/82160730-4266cc80-988f-11ea-8564-bfba5ec1873f.png)
 Learn more about the iris dataset: UCI Machine Learning Repository
 <http://archive.ics.uci.edu/ml/datasets/Iris>
+
+Once the file named **iris.data** has been downloaded you can verify it by opening it with Visual Studio Code, image attached.
+
+![image](https://user-images.githubusercontent.com/60121637/82160958-d1281900-9890-11ea-9545-c4badce0379a.png)
