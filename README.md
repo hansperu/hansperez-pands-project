@@ -206,3 +206,12 @@ Using the command shown below you can see the data divided into blocks and horiz
 `print (iris.data.T)`
 
 ![horizontal](https://user-images.githubusercontent.com/60121637/82269000-4581bb80-9968-11ea-9fae-6b3be1d4f469.png)
+
+This command allows you to see only the data of the first block
+
+`features = iris.data.T`
+
+`print(features[0])`
+
+![bloque1](https://user-images.githubusercontent.com/60121637/82269336-4ff08500-9969-11ea-8bd9-4d32d768e464.png)
+
