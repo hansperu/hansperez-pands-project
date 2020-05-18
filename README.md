@@ -6,6 +6,7 @@
 
 **Student ID number:** G00387884
 
+
 ## 1.Projet Plan.
 This project concerns the well-known Fisher’s Iris data set. You must research the data set and write documentation and code in Python to investigate it. 
 
@@ -37,9 +38,7 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 
 ## II. Bibliographic Research Process.
 
-Thanks to the database offered by the GMIT library and the information provided in the instructions document where we are instructed to start the research process from the UC Irvine Machine Learning Repository. Iris data set.
-
-<http://archive.ics.uci.edu/ml/datasets/Iris>.
+Thanks to the database offered by the GMIT library and the information provided in the instructions document where we are instructed to start the research process from the UC Irvine Machine Learning Repository. [Iris data set](http://archive.ics.uci.edu/ml/datasets/Iris).
 
 In the GMIT library database we have found more than 150 scientific articles and books that refer to Ronald Fisher. The results offered by the repository as a document are attached in a separate document.
  
