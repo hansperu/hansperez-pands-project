@@ -195,7 +195,9 @@ To carry out this exercise we have used [Anaconda-navigator](https://www.anacond
 
 ![importación](https://user-images.githubusercontent.com/60121637/82268401-ca6bd580-9966-11ea-85b7-6a8f61be9dfd.png)
 
+Once [Matplotlib.pyplot](https://matplotlib.org/3.2.1/api/_as_gen/matplotlib.pyplot.html) and [sklearn.datasets](https://scikit-learn.org/stable/index.html) are imported, you must also import the iris.data and use the code:
 
+`print (iris.data)`
 
-
+![import irisdata](https://user-images.githubusercontent.com/60121637/82268745-ab217800-9967-11ea-83cd-463c8c9c6ad5.png)
 
