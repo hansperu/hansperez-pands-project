@@ -46,7 +46,7 @@ There has been a detailed investigation of Fisher's Iris dataset, for example: I
 
 The three etitles below (use the advanced search option in search + search. Enter the Python script and the iris dataset) refer to Fisher's iris dataset. Just use the 'search inside' function on each title and key in the iris dataset.
 
-#### Python Machine Learning - Second Edition
+#### Python Machine Learning - [Second Edition](http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,sso&db=nlebk&AN=1606531&site=eds-live&scope=site&custid=s2873033&ebv=EB&ppid=pp_9)
 Author:Raschka, Sebastian, Mirjalili, Vahid
 
 ![book1](https://user-images.githubusercontent.com/60121637/82153453-66aab500-985f-11ea-881a-fd5e2bbd3c8e.png)
