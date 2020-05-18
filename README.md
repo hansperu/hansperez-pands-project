@@ -162,3 +162,8 @@ For more information <https://scikit-learn.org/stable/datasets/>
 * Each of the values we are predicting is the **response** (also known as: target, result, label, dependent variable).
 * Therefore the **classification** is supervised learning in which the answer is categorical.
 * **Regression** is supervised learning in which the response is orderly and continuous.
+
+Once this process is finished we must save the commands used in Jupyter with the name **"analisys.py"**
+
+
+
