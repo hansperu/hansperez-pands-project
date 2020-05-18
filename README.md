@@ -165,5 +165,7 @@ For more information <https://scikit-learn.org/stable/datasets/>
 
 Once this process is finished we must save the commands used in Jupyter with the name **"analisys.py"**
 
+![image](https://user-images.githubusercontent.com/60121637/82198306-06198780-98f4-11ea-8ddf-2f71fd900fa6.png)
+
 
 
