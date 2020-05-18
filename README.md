@@ -46,17 +46,17 @@ There has been a detailed investigation of Fisher's Iris dataset, for example: I
 
 The three etitles below (use the advanced search option in search + search. Enter the Python script and the iris dataset) refer to Fisher's iris dataset. Just use the 'search inside' function on each title and key in the iris dataset.
 
-#### Python Machine Learning - [Second Edition](http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,sso&db=nlebk&AN=1606531&site=eds-live&scope=site&custid=s2873033&ebv=EB&ppid=pp_9)
+#### [Python Machine Learning - Second Edition](http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,sso&db=nlebk&AN=1606531&site=eds-live&scope=site&custid=s2873033&ebv=EB&ppid=pp_9)
 Author:Raschka, Sebastian, Mirjalili, Vahid
 
 ![book1](https://user-images.githubusercontent.com/60121637/82153453-66aab500-985f-11ea-881a-fd5e2bbd3c8e.png)
 
-#### Mastering Social Media Mining with Python
+#### [Mastering Social Media Mining with Python](http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,sso&db=e000xww&AN=1295360&site=eds-live&scope=site&custid=s2873033&ebv=EB&ppid=pp_32)
 Author: Bonzanini, Marco
 
 ![book2](https://user-images.githubusercontent.com/60121637/82153488-a40f4280-985f-11ea-9b14-a7f0f4cf5d67.png)
 
-#### Python Data Science Essentials - Second Edition
+#### [Python Data Science Essentials - Second Edition](http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,sso&db=e000xww&AN=1409191&site=eds-live&scope=site&custid=s2873033&ebv=EB&ppid=pp_Cover)
 Author: Boschetti, Alberto, Massaron, Luca
 
 ![book3](https://user-images.githubusercontent.com/60121637/82153641-a756fe00-9860-11ea-8245-e15e478f1450.png)
