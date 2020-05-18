@@ -201,3 +201,8 @@ Once [Matplotlib.pyplot](https://matplotlib.org/3.2.1/api/_as_gen/matplotlib.pyp
 
 ![import irisdata](https://user-images.githubusercontent.com/60121637/82268745-ab217800-9967-11ea-83cd-463c8c9c6ad5.png)
 
+Using the command shown below you can see the data divided into blocks and horizontally
+
+`print (iris.data.T)`
+
+![horizontal](https://user-images.githubusercontent.com/60121637/82269000-4581bb80-9968-11ea-9fae-6b3be1d4f469.png)
