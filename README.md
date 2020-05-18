@@ -191,5 +191,6 @@ We must also import [sklearn.datasets](https://scikit-learn.org/stable/index.htm
 
 * Open source, commercially usable - BSD license
 
+![importación](https://user-images.githubusercontent.com/60121637/82268401-ca6bd580-9966-11ea-85b7-6a8f61be9dfd.png)
 
 
