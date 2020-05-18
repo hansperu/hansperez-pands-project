@@ -235,5 +235,21 @@ This command allows you to see the characteristics of the petals and the logintu
 
 This command allows you to see the characteristics of the petals and the length and width of each one.
 
+`sepal_length_label=iris.feature_names[0]`
+
+`sepal_width_label=iris.feature_names[1]
+
+petal_length_label=iris.feature_names[2]
+
+petal_width_label=iris.feature_names[3]
+
+plt.scatter(sepal_length, sepal_width, c=iris.target)
+
+plt.xlabel(sepal_length_label)
+
+plt.ylabel(sepal_width_label)
+
+plt.show()`
+
 ![grafico](https://user-images.githubusercontent.com/60121637/82269643-31d75480-996a-11ea-8253-e777c8184175.png)
 
