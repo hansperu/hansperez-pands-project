@@ -215,3 +215,17 @@ This command allows you to see only the data of the first block
 
 ![bloque1](https://user-images.githubusercontent.com/60121637/82269336-4ff08500-9969-11ea-8bd9-4d32d768e464.png)
 
+
+This command allows you to see the characteristics of the petals and the logintudity of each one of them in the different blocks of the iris.data
+
+`sepal_length=features[0]`
+
+`sepal_width=features[1]`
+
+`petal_length=features[2]`
+
+`petal_width=features[3]`
+
+`print(iris.feature_names)`
+
+![caracteristicas](https://user-images.githubusercontent.com/60121637/82269474-be354780-9969-11ea-88d8-792e903dd3d5.png)
