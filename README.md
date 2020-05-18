@@ -173,9 +173,9 @@ First of all we must import [Matplotlib.pyplot](https://matplotlib.org/3.2.1/api
 
 Pyplot is mainly intended for interactive plots and simple cases of programmatic plot generation:
 
-`import numpy as np
-import matplotlib.pyplot as plt
+`import numpy as np`
+`import matplotlib.pyplot as plt`
 
-x = np.arange(0, 5, 0.1)
-y = np.sin(x)
-plt.plot(x, y)`
+`x = np.arange(0, 5, 0.1)`
+`y = np.sin(x)`
+`plt.plot(x, y)`
