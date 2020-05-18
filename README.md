@@ -5,10 +5,17 @@
 
 ## 1.Projet Plan.
 This project concerns the well-known Fisher’s Iris data set. You must research the data set and write documentation and code in Python to investigate it. 
+
 ## 2.- The Problem to solve.
 You are expected to be able to break this project into several smaller tasks that are easier to solve, and to plug these together after they have been completed. 
+
 ## 3.- Methodology to follow
+The methodology for software development in software engineering is a framework used to structure, plan and control the development process in information systems.
+
+Basically the point here is to control the development process so that it is orderly and in this way as productive as possible.
+
 This project has been developed fulfilling the following objectives:
+
 ### 3.1. Research the data set online and write a summary about it in your README.
 
 ### 3.2. Download the data set and add it to your repository.
