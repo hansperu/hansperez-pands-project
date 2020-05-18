@@ -183,3 +183,13 @@ Pyplot is mainly intended for interactive plots and simple cases of programmatic
 
 `plt.plot(x, y)`
 
+First we must import [sklearn.datasets](https://scikit-learn.org/stable/index.html)
+
+* Simple and efficient tools for predictive data analysis.
+
+* Accessible to all and reusable in various contexts. Built on NumPy, SciPy and matplotlib
+
+* Open source, commercially usable - BSD license
+
+
+
