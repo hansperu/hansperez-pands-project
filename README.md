@@ -167,5 +167,15 @@ Once this process is finished we must save the commands used in Jupyter with the
 
 ![image](https://user-images.githubusercontent.com/60121637/82198306-06198780-98f4-11ea-8ddf-2f71fd900fa6.png)
 
+## V. Data visualization
 
+First of all we must import [Matplotlib.pyplot](https://matplotlib.org/3.2.1/api/_as_gen/matplotlib.pyplot.html) is a state-based interface to matplotlib. It provides a MATLAB-like way of plotting.
 
+Pyplot is mainly intended for interactive plots and simple cases of programmatic plot generation:
+
+`import numpy as np
+import matplotlib.pyplot as plt
+
+x = np.arange(0, 5, 0.1)
+y = np.sin(x)
+plt.plot(x, y)`
