@@ -229,3 +229,11 @@ This command allows you to see the characteristics of the petals and the logintu
 `print(iris.feature_names)`
 
 ![caracteristicas](https://user-images.githubusercontent.com/60121637/82269474-be354780-9969-11ea-88d8-792e903dd3d5.png)
+
+
+#### Graphics encoding
+
+This command allows you to see the characteristics of the petals and the length and width of each one.
+
+![grafico](https://user-images.githubusercontent.com/60121637/82269643-31d75480-996a-11ea-8253-e777c8184175.png)
+
