@@ -253,5 +253,5 @@ This command allows you to see the characteristics of the petals and the length 
 
 ![grafico](https://user-images.githubusercontent.com/60121637/82269643-31d75480-996a-11ea-8253-e777c8184175.png)
 
-Once this process is finished we must save the commands used in Jupyter with the name "analisys2.py"
+Once this process is finished we must save the commands used in Jupyter with the name **"analisys2.py"**
 
